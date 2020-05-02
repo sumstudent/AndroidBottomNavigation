@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidBottomNavigation</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_notification">Notification</string>
+    <string name="nav_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">This is Home Fragment</string>
+    <string name="hello_account_fragment">This is Account Fragment</string>
+    <string name="hello_notification_fragment">This is Notification Fragment</string>
+</resources>
